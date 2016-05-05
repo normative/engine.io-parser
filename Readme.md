@@ -1,6 +1,8 @@
 
 # engine.io-parser
 
+This is forked so we can use a patch that is not in npm - allows for socket.io use in react-native
+
 [![Build Status](https://secure.travis-ci.org/socketio/engine.io-parser.svg)](http://travis-ci.org/socketio/engine.io-parser)
 [![NPM version](https://badge.fury.io/js/engine.io-parser.svg)](http://badge.fury.io/js/engine.io-parser)
 
